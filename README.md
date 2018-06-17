@@ -12,7 +12,7 @@ There is one simple rule: once the content has been changed on the left side, th
 
 Here is a video about how it should look like:
 
-[./output.mp4](Video.mp4)
+[Video.mp4](./output.mp4)
 
 For now, the CMS doesn't offer a way to persist the content and let's say we're okay with that. So no server side code to write!
 

@@ -6,14 +6,10 @@ import {
   NavbarBrand,
   Nav,
   NavItem,
-  NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem } from 'reactstrap';
+  NavLink } from 'reactstrap';
 import logo from '../logo.svg';
 
-class Header extends React.Component {
+class Header extends Component {
 
   constructor(props) {
     super(props);

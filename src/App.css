@@ -19,6 +19,10 @@ html, body { height: 100%; }
   color: rgba(255, 255, 255, 0.8);
 }
 
+.app-editor {
+  padding: 2em 1em;
+}
+
 @keyframes app-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
